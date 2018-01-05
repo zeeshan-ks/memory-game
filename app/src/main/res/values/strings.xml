@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Memory Game</string>
+    <string name="app_name">PSL Game</string>
     <string name="debug">regular</string>
+    <string name="first_ad">ca-app-pub-8633922189225579/9343879508</string>
+    <string name="second_ad">ca-app-pub-8633922189225579/7955432750</string>
+    <string name="third_ad">ca-app-pub-8633922189225579/3824616052</string>
+    <string name="fourth_ad">ca-app-pub-8633922189225579/9125167906</string>
+    <string name="fifth_ad">ca-app-pub-8633922189225579/2779251407</string>
+    <string name="share_chooser_prompt">How would you like to invite friends, using SMS or Free?</string>
+    <string name="app_link">https://play.google.com/store/apps/details?id=psl.match.game</string>
+    <string name="invitation_message">I loved this PSL Memory game, hope you will too. Play Now!</string>
 
 </resources>

@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "1030033888100",
+    "firebase_url": "https://admob-app-id-1338705647.firebaseio.com",
+    "project_id": "admob-app-id-1338705647",
+    "storage_bucket": "admob-app-id-1338705647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030033888100:android:8d4b6352633b5785",
+        "android_client_info": {
+          "package_name": "com.lazytechapps.instanpakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNWGSKOBcxizf5dIN3IGxkMRcgn0-jRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030033888100:android:b429fb68f12d7346",
+        "android_client_info": {
+          "package_name": "jeem.com.izzyydaydream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030033888100-r74hhb0u4kfjh6si61ul1jvra04fhtbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jeem.com.izzyydaydream",
+            "certificate_hash": "3e8643c4542196fee290f06b5722db83a20a1b16"
+          }
+        },
+        {
+          "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNWGSKOBcxizf5dIN3IGxkMRcgn0-jRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030033888100:android:80c88601093f167f",
+        "android_client_info": {
+          "package_name": "lazytechapps.com.callgreeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030033888100-4g3nkg373npbsemsao1kn27pj16hivc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lazytechapps.com.callgreeting",
+            "certificate_hash": "3e8643c4542196fee290f06b5722db83a20a1b16"
+          }
+        },
+        {
+          "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNWGSKOBcxizf5dIN3IGxkMRcgn0-jRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030033888100:android:7c8a526b2f455cb7",
+        "android_client_info": {
+          "package_name": "izzyjeem.com.lingoplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030033888100-97oud5jio1h0tc78tbpnnrh2k0o38o75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "izzyjeem.com.lingoplus",
+            "certificate_hash": "3e8643c4542196fee290f06b5722db83a20a1b16"
+          }
+        },
+        {
+          "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNWGSKOBcxizf5dIN3IGxkMRcgn0-jRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030033888100:android:c408ffab4181dcd0",
+        "android_client_info": {
+          "package_name": "com.kalsym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNWGSKOBcxizf5dIN3IGxkMRcgn0-jRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030033888100:android:1c262311eb4c20b1",
+        "android_client_info": {
+          "package_name": "psl.match.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030033888100-ahqhdgtq0ubbm3sstfmbrqm2s36tidr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "psl.match.game",
+            "certificate_hash": "3e8643c4542196fee290f06b5722db83a20a1b16"
+          }
+        },
+        {
+          "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNWGSKOBcxizf5dIN3IGxkMRcgn0-jRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030033888100-452n889ufn9vfkidlj3e4koh49kjn6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

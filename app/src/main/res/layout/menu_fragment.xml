@@ -37,31 +37,31 @@
         android:src="@drawable/button_settings" />
 
     <ImageView
-        android:id="@+id/google_play_button"
+        android:id="@+id/share_button"
         android:layout_width="@dimen/settings_game_button"
         android:layout_height="@dimen/settings_game_button"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="@dimen/settings_game_button_margin"
-        android:layout_toLeftOf="@id/start_game_button"
+        android:layout_alignTop="@+id/settings_game_button"
+        android:layout_toLeftOf="@+id/start_game_button"
+        android:layout_toStartOf="@+id/start_game_button"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@drawable/button_google_play" />
+        android:src="@drawable/button_share" />
 
-	<ImageView
+    <ImageView
         android:id="@+id/title"
         android:layout_width="@dimen/title_width"
         android:layout_height="@dimen/title_height"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/title_margin_top"
         android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@drawable/title" />
+        android:scaleType="fitXY"
+        android:src="@drawable/game_title" />
 	
 	<ImageView
         android:id="@+id/tooltip"
         android:layout_width="@dimen/tooltip_width"
         android:layout_height="@dimen/tooltip_height"
-        android:layout_alignLeft="@id/google_play_button"
+        android:layout_alignLeft="@id/share_button"
         android:adjustViewBounds="true"
         android:layout_marginLeft="@dimen/tooltip_margin_left"
         android:scaleType="centerCrop"

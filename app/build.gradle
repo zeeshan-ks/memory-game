@@ -1,15 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.3"
-
+    compileSdkVersion 26
     defaultConfig {
-        applicationId "com.snatik.matches"
-        minSdkVersion 11
-        targetSdkVersion 25
-        versionCode 1006
-        versionName "1.0.06"
+        applicationId "psl.match.game"
+        minSdkVersion 14
+        targetSdkVersion 26
+        versionCode 3
+        versionName "1.2"
+//        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -20,7 +19,20 @@ android {
 }
 
 dependencies {
+    implementation 'com.google.firebase:firebase-messaging:11.0.4'
+    implementation 'com.google.firebase:firebase-invites:11.0.4'
+    implementation 'com.google.firebase:firebase-ads:11.0.4'
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:25.3.1'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    // inmobi related compilations: https://support.inmobi.com/monetize/android-guidelines/
+//    compile 'com.inmobi.monetization:inmobi-ads:7.0.2'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.android.support:recyclerview-v7:26.1.0'
+//    compile 'com.android.support:multidex:1.0.1'
 }
+
+
+
+
+apply plugin: 'com.google.gms.google-services'
